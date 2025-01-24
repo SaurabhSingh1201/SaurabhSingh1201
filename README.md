@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SaurabhSingh1201
-- 👀 I’m working as a Software Engineer in CoforgeLimited.
-- 🌱 I’m currently learning DevOps.
+- 👀Senior Software Engineer at Coforge Limited | DevOps Engineer | Passionate about Cloud Technologies and Automation
 - 📫 saurabhsrms0@gmail.com
 
 <!---
